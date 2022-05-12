@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/dao/AdminDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/dao/BookManagementDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/dao/BorrowDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/dao/ReaderDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/dao/RegisterDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/daoimpl/AdminDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/daoimpl/BookManagementDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/daoimpl/BorrowDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/daoimpl/ReaderDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/daoimpl/RegisterDaoimpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entry/Admin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entry/Book.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entry/Borrow.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entry/Reader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entry/Register.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/listener/AdminLoginListner.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/listener/BorrowBookActionListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/listener/BorrowDocunebtListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/listener/BorrowTypeActionListner.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/listener/HomeActionListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/listener/HomeListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/DBUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/IconOrTestArr.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/ImageSize.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/Prestrain.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/Scaling.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/SendEamil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/TimerStop.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/AccountInformation.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/BookAmend.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/BookCheckIn.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/BookLose.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/BookQuery.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/BookStatistics.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/Borrow.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/BorrowBook.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/BorrowBookRenew.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/HomeFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/HomeLave.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/LAFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/LoginFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/OverdueBook.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/ReaderDeleteAndUpdate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/ReaderManage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/ReaderMessage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/RegisterFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/RegisteredUsers.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/ReturnBook.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/SystemManagement.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
